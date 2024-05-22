@@ -1,5 +1,4 @@
 ### Hi there 👋
 
 I am Wenze
-This is my github page
-Rookie in the code field
+And I am doing my homework
